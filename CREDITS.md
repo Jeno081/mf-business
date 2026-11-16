@@ -1,0 +1,198 @@
+# Crédits visuels
+
+Les visuels téléchargés proviennent des fiches GSMArena et servent de visuels de démonstration. Pour une publication commerciale, remplacez-les par vos propres photos ou par des images sous licence.
+
+- `iphone-duo-fold.webp` — [iPhone Duo](https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-duo-fold.jpg) — GSMArena
+- `iphone-18-pro-max.webp` — [iPhone 18 Pro Max](https://fdn2.gsmarena.com/vv/bigpic/apple-iphone18-pro-max.jpg) — GSMArena
+- `iphone-18-pro.webp` — [iPhone 18 Pro](https://fdn2.gsmarena.com/vv/bigpic/apple-iphone18-pro.jpg) — GSMArena
+- `iphone-17-pro-max.webp` — [iPhone 17 Pro Max](https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-17-pro-max.jpg) — GSMArena
+- `iphone-17-pro.webp` — [iPhone 17 Pro](https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-17-pro.jpg) — GSMArena
+- `iphone-17-air.webp` — [iPhone Air](https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-air.jpg) — GSMArena
+- `iphone-17.webp` — [iPhone 17](https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-17.jpg) — GSMArena
+- `iphone-17e.webp` — [iPhone 17e](https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-17e.jpg) — GSMArena
+- `iphone-16-pro-max.webp` — [iPhone 16 Pro Max](https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-16-pro-max.jpg) — GSMArena
+- `iphone-16-pro.webp` — [iPhone 16 Pro](https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-16-pro.jpg) — GSMArena
+- `iphone-16-plus.webp` — [iPhone 16 Plus](https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-16-plus.jpg) — GSMArena
+- `iphone-16.webp` — [iPhone 16](https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-16.jpg) — GSMArena
+- `iphone-16e.webp` — [iPhone 16e](https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-16e.jpg) — GSMArena
+- `iphone-15-pro-max.webp` — [iPhone 15 Pro Max](https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-15-pro-max.jpg) — GSMArena
+- `iphone-15-pro.webp` — [iPhone 15 Pro](https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-15-pro.jpg) — GSMArena
+- `iphone-15.webp` — [iPhone 15](https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-15.jpg) — GSMArena
+- `iphone-14.webp` — [iPhone 14](https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-14.jpg) — GSMArena
+- `iphone-13.webp` — [iPhone 13](https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13.jpg) — GSMArena
+- `iphone-se-2022.webp` — [iPhone SE (2022)](https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-se-2022.jpg) — GSMArena
+- `ipad-mini-2026.webp` — [iPad mini (2026)](https://fdn2.gsmarena.com/vv/bigpic/ipad-mini-a20-pro.jpg) — GSMArena
+- `ipad-air-13-5g-2026.webp` — [iPad Air 13 (2026)](https://fdn2.gsmarena.com/vv/bigpic/apple-ipad-air-13-2025.jpg) — GSMArena
+- `ipad-air-11-5g-2026.webp` — [iPad Air 11 (2026)](https://fdn2.gsmarena.com/vv/bigpic/apple-ipad-air-11-2025.jpg) — GSMArena
+- `ipad-pro-13-5g-2025.webp` — [iPad Pro 13 (2025)](https://fdn2.gsmarena.com/vv/bigpic/apple-ipad-pro-13-2024.jpg) — GSMArena
+- `ipad-pro-11-5g-2025.webp` — [iPad Pro 11 (2025)](https://fdn2.gsmarena.com/vv/bigpic/apple-ipad-pro-11-2024.jpg) — GSMArena
+- `ipad-2025.webp` — [iPad (2025)](https://fdn2.gsmarena.com/vv/bigpic/apple-ipad-11-inch-2025.jpg) — GSMArena
+- `ipad-mini-2024.webp` — [iPad mini (2024)](https://fdn2.gsmarena.com/vv/bigpic/apple-ipad-mini-2024.jpg) — GSMArena
+- `galaxy-s26-ultra-5g.webp` — [Galaxy S26 Ultra](https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s26-ultra-new.jpg) — GSMArena
+- `galaxy-s26+-5g.webp` — [Galaxy S26+](https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s26-plus.jpg) — GSMArena
+- `galaxy-s26-5g.webp` — [Galaxy S26](https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s26.jpg) — GSMArena
+- `galaxy-s26-fe-5g.webp` — [Galaxy S26 FE](https://fdn2.gsmarena.com/vv/bigpic/samsung-samsung-galaxy-s26-fe.jpg) — GSMArena
+- `galaxy-s25-ultra.webp` — [Galaxy S25 Ultra](https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s25-ultra-sm-s938.jpg) — GSMArena
+- `galaxy-s25+.webp` — [Galaxy S25+](https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s25-plus-sm-s936.jpg) — GSMArena
+- `galaxy-s25.webp` — [Galaxy S25](https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s25-sm-s931.jpg) — GSMArena
+- `galaxy-s25-fe-5g.webp` — [Galaxy S25 FE](https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s25-fe.jpg) — GSMArena
+- `galaxy-s25-edge.webp` — [Galaxy S25 Edge](https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s25-edge.jpg) — GSMArena
+- `galaxy-s24-ultra.webp` — [Galaxy S24 Ultra](https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s24-ultra-5g-sm-s928-stylus.jpg) — GSMArena
+- `galaxy-s24+.webp` — [Galaxy S24+](https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s24-plus-5g-sm-s926.jpg) — GSMArena
+- `galaxy-s24.webp` — [Galaxy S24](https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s24-5g-sm-s921.jpg) — GSMArena
+- `galaxy-s24-fe.webp` — [Galaxy S24 FE](https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s24-fe-r1.jpg) — GSMArena
+- `galaxy-z-fold8-ultra-5g.webp` — [Galaxy Z Fold8 Ultra](https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-z-fold8-ultra-r1.jpg) — GSMArena
+- `galaxy-z-fold-wide-5g.webp` — [Galaxy Z Fold8](https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-z-fold8.jpg) — GSMArena
+- `galaxy-z-flip8-5g.webp` — [Galaxy Z Flip8](https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-z-flip8.jpg) — GSMArena
+- `galaxy-z-fold7.webp` — [Galaxy Z Fold7](https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-z-fold7.jpg) — GSMArena
+- `galaxy-z-flip7.webp` — [Galaxy Z Flip7](https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-z-flip7.jpg) — GSMArena
+- `galaxy-z-fold6.webp` — [Galaxy Z Fold6](https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-z-fold6.jpg) — GSMArena
+- `galaxy-z-flip6.webp` — [Galaxy Z Flip6](https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-z-flip6.jpg) — GSMArena
+- `galaxy-z-fold5.webp` — [Galaxy Z Fold5](https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-z-fold5-5g.jpg) — GSMArena
+- `galaxy-z-flip5.webp` — [Galaxy Z Flip5](https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-z-flip5-5g.jpg) — GSMArena
+- `galaxy-a57-5g.webp` — [Galaxy A57](https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a57.jpg) — GSMArena
+- `galaxy-a56.webp` — [Galaxy A56](https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a56-.jpg) — GSMArena
+- `galaxy-a55.webp` — [Galaxy A55](https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a55.jpg) — GSMArena
+- `galaxy-a37-5g.webp` — [Galaxy A37](https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a37.jpg) — GSMArena
+- `galaxy-a36.webp` — [Galaxy A36](https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a36.jpg) — GSMArena
+- `galaxy-a26.webp` — [Galaxy A26](https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a26.jpg) — GSMArena
+- `galaxy-a17-5g.webp` — [Galaxy A17](https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a17-5g.jpg) — GSMArena
+- `galaxy-a07-5g.webp` — [Galaxy A07](https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a07-5g.jpg) — GSMArena
+- `galaxy-m47-5g.webp` — [Galaxy M47](https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-m47.jpg) — GSMArena
+- `galaxy-m36-5g.webp` — [Galaxy M36](https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-m36.jpg) — GSMArena
+- `galaxy-tab-s12-ultra-5g.webp` — [Galaxy Tab S12 Ultra](https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-tab-s12-ultra.jpg) — GSMArena
+- `galaxy-tab-s12+-5g.webp` — [Galaxy Tab S12+](https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-tab-s12-plus.jpg) — GSMArena
+- `galaxy-tab-s10-fe.webp` — [Galaxy Tab S10 FE](https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-tab-s10-fe.jpg) — GSMArena
+- `galaxy-tab-s9-fe.webp` — [Galaxy Tab S9 FE](https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-tab-s9-fe-10-.jpg) — GSMArena
+- `galaxy-tab-a11+.webp` — [Galaxy Tab A11+](https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-tab-a11-plus.jpg) — GSMArena
+- `pura-90-pro-max-5g.webp` — [Pura 90 Pro Max](https://fdn2.gsmarena.com/vv/bigpic/huawei-pura90-pro-max-new.jpg) — GSMArena
+- `pura-90-pro-5g.webp` — [Pura 90 Pro](https://fdn2.gsmarena.com/vv/bigpic/huawei-pura90-pro.jpg) — GSMArena
+- `pura-90-5g.webp` — [Pura 90](https://fdn2.gsmarena.com/vv/bigpic/huawei-pura90-new.jpg) — GSMArena
+- `pura-90-plus-5g.webp` — [Pura 90 Plus](https://fdn2.gsmarena.com/vv/bigpic/huawei-pura-90-plus-.jpg) — GSMArena
+- `pura-80-ultra-5g.webp` — [Pura 80 Ultra](https://fdn2.gsmarena.com/vv/bigpic/huawei-pura80-ultra-.jpg) — GSMArena
+- `pura-80-pro-5g.webp` — [Pura 80 Pro](https://fdn2.gsmarena.com/vv/bigpic/huawei-pura80-pro.jpg) — GSMArena
+- `pura-70-ultra.webp` — [Pura 70 Ultra](https://fdn2.gsmarena.com/vv/bigpic/huawei-pura70-ultra.jpg) — GSMArena
+- `pura-70-pro.webp` — [Pura 70 Pro](https://fdn2.gsmarena.com/vv/bigpic/huawei-pura70-pro.jpg) — GSMArena
+- `pura-70.webp` — [Pura 70](https://fdn2.gsmarena.com/vv/bigpic/huawei-pura70.jpg) — GSMArena
+- `mate-90-pro-max-5g.webp` — [Mate 90 Pro Max](https://fdn2.gsmarena.com/vv/bigpic/huawei-mate-90-pro-max.jpg) — GSMArena
+- `mate-90-pro-5g.webp` — [Mate 90 Pro](https://fdn2.gsmarena.com/vv/bigpic/huawei-mate-90-pro.jpg) — GSMArena
+- `mate-90-5g.webp` — [Mate 90](https://fdn2.gsmarena.com/vv/bigpic/huawei-mate-90.jpg) — GSMArena
+- `mate-80-pro-5g.webp` — [Mate 80 Pro](https://fdn2.gsmarena.com/vv/bigpic/huawei-mate-80-pro.jpg) — GSMArena
+- `mate-70-pro.webp` — [Mate 70 Pro](https://fdn2.gsmarena.com/vv/bigpic/huawei-mate-70-pro.jpg) — GSMArena
+- `mate-60-pro.webp` — [Mate 60 Pro](https://fdn2.gsmarena.com/vv/bigpic/huawei-mate-60-pro.jpg) — GSMArena
+- `mate-xt-2-ultimate-5g.webp` — [Mate XT 2 Ultimate](https://fdn2.gsmarena.com/vv/bigpic/huawei-mate-xt2-ultimate.jpg) — GSMArena
+- `mate-x7-5g.webp` — [Mate X7](https://fdn2.gsmarena.com/vv/bigpic/huawei-mate-x7.jpg) — GSMArena
+- `mate-x6.webp` — [Mate X6](https://fdn2.gsmarena.com/vv/bigpic/huawei-mate-x6-.jpg) — GSMArena
+- `mate-x5.webp` — [Mate X5](https://fdn2.gsmarena.com/vv/bigpic/huawei-mate-x5.jpg) — GSMArena
+- `nova-16-pro-5g.webp` — [nova 16 Pro](https://fdn2.gsmarena.com/vv/bigpic/huawei-nova16-pro-.jpg) — GSMArena
+- `nova-16-5g.webp` — [nova 16](https://fdn2.gsmarena.com/vv/bigpic/huawei-nova16-.jpg) — GSMArena
+- `nova-13.webp` — [nova 13](https://fdn2.gsmarena.com/vv/bigpic/huavei-nova-13.jpg) — GSMArena
+- `matepad-pro-12-2026.webp` — [MatePad Pro 12 (2026)](https://fdn2.gsmarena.com/vv/bigpic/huawei-matepad-pro-12-2026.jpg) — GSMArena
+- `matepad-11-5-2026.webp` — [MatePad 11.5 (2026)](https://fdn2.gsmarena.com/vv/bigpic/huawei-matepad-11-5-2025.jpg) — GSMArena
+- `pixel-11-pro-fold.webp` — [Pixel 11 Pro Fold](https://fdn2.gsmarena.com/vv/bigpic/google-pixel-11-pro-fold.jpg) — GSMArena
+- `pixel-11-pro-xl-5g.webp` — [Pixel 11 Pro XL](https://fdn2.gsmarena.com/vv/bigpic/google-pixel-11-pro-xl.jpg) — GSMArena
+- `pixel-11-pro-5g.webp` — [Pixel 11 Pro](https://fdn2.gsmarena.com/vv/bigpic/google-pixel-11-pro.jpg) — GSMArena
+- `pixel-11-5g.webp` — [Pixel 11](https://fdn2.gsmarena.com/vv/bigpic/google-pixel-11.jpg) — GSMArena
+- `pixel-10-pro-fold.webp` — [Pixel 10 Pro Fold](https://fdn2.gsmarena.com/vv/bigpic/google-pixel-10-pro-fold--.jpg) — GSMArena
+- `pixel-10-pro-xl-5g.webp` — [Pixel 10 Pro XL](https://fdn2.gsmarena.com/vv/bigpic/google-pixel-10-pro-xl-.jpg) — GSMArena
+- `pixel-10-pro-5g.webp` — [Pixel 10 Pro](https://fdn2.gsmarena.com/vv/bigpic/google-pixel-10-pro-.jpg) — GSMArena
+- `pixel-10-5g.webp` — [Pixel 10](https://fdn2.gsmarena.com/vv/bigpic/google-pixel-10-.jpg) — GSMArena
+- `pixel-10a-5g.webp` — [Pixel 10a](https://fdn2.gsmarena.com/vv/bigpic/google-pixel-10a.jpg) — GSMArena
+- `pixel-9-pro-xl.webp` — [Pixel 9 Pro XL](https://fdn2.gsmarena.com/vv/bigpic/google-pixel-9-pro-xl-.jpg) — GSMArena
+- `pixel-9-pro.webp` — [Pixel 9 Pro](https://fdn2.gsmarena.com/vv/bigpic/google-pixel-9-pro-.jpg) — GSMArena
+- `pixel-9.webp` — [Pixel 9](https://fdn2.gsmarena.com/vv/bigpic/google-pixel-9-.jpg) — GSMArena
+- `pixel-9a.webp` — [Pixel 9a](https://fdn2.gsmarena.com/vv/bigpic/google-pixel-9a.jpg) — GSMArena
+- `pixel-9-pro-fold.webp` — [Pixel 9 Pro Fold](https://fdn2.gsmarena.com/vv/bigpic/google-pixel-9-pro-fold-.jpg) — GSMArena
+- `pixel-8-pro.webp` — [Pixel 8 Pro](https://fdn2.gsmarena.com/vv/bigpic/google-pixel-8-pro.jpg) — GSMArena
+- `pixel-8.webp` — [Pixel 8](https://fdn2.gsmarena.com/vv/bigpic/google-pixel-8.jpg) — GSMArena
+- `pixel-8a.webp` — [Pixel 8a](https://fdn2.gsmarena.com/vv/bigpic/google-pixel-8a.jpg) — GSMArena
+- `pixel-fold.webp` — [Pixel Fold](https://fdn2.gsmarena.com/vv/bigpic/google-pixel-fold.jpg) — GSMArena
+- `pixel-tablet.webp` — [Pixel Tablet](https://fdn2.gsmarena.com/vv/bigpic/google-pixel-tablet-1.jpg) — GSMArena
+- `18-pro-max-5g.webp` — [Xiaomi 18 Pro Max](https://fdn2.gsmarena.com/vv/bigpic/xiaomi-18-pro-max.jpg) — GSMArena
+- `18-pro-5g.webp` — [Xiaomi 18 Pro](https://fdn2.gsmarena.com/vv/bigpic/xiaomi-18-pro.jpg) — GSMArena
+- `18-fold-5g.webp` — [Xiaomi 18 Fold](https://fdn2.gsmarena.com/vv/bigpic/xiaomi-18-fold.jpg) — GSMArena
+- `17t-pro-5g.webp` — [Xiaomi 17T Pro](https://fdn2.gsmarena.com/vv/bigpic/xiaomi-17t-pro.jpg) — GSMArena
+- `17t-5g.webp` — [Xiaomi 17T](https://fdn2.gsmarena.com/vv/bigpic/xiaomi-17t.jpg) — GSMArena
+- `17-max-5g.webp` — [Xiaomi 17 Max](https://fdn2.gsmarena.com/vv/bigpic/xiaomi-17-max.jpg) — GSMArena
+- `redmi-note-17-pro-max-5g.webp` — [Redmi Note 17 Pro Max](https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-17-pro-max.jpg) — GSMArena
+- `redmi-note-17-pro-5g.webp` — [Redmi Note 17 Pro](https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-17-pro.jpg) — GSMArena
+- `redmi-note-17-5g.webp` — [Redmi Note 17](https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-17.jpg) — GSMArena
+- `poco-f9-ultra-5g.webp` — [Poco F9 Ultra](https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-f9-ultra.jpg) — GSMArena
+- `poco-f9-pro-5g.webp` — [Poco F9 Pro](https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-f9-pro.jpg) — GSMArena
+- `poco-x8-5g.webp` — [Poco X8](https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-x8.jpg) — GSMArena
+- `pad-9-pro.webp` — [Pad 9 Pro](https://fdn2.gsmarena.com/vv/bigpic/xiaomi-pad-9-pro.jpg) — GSMArena
+- `camon-50-ultra-5g.webp` — [Camon 50 Ultra](https://fdn2.gsmarena.com/vv/bigpic/tecno-camon-50-ultra.jpg) — GSMArena
+- `camon-50-pro-5g.webp` — [Camon 50 Pro](https://fdn2.gsmarena.com/vv/bigpic/tecno-camon-50-pro.jpg) — GSMArena
+- `camon-50.webp` — [Camon 50 4G](https://fdn2.gsmarena.com/vv/bigpic/tecno-camon-50-4g.jpg) — GSMArena
+- `camon-40-premier.webp` — [Camon 40 Premier](https://fdn2.gsmarena.com/vv/bigpic/tecno-camon-40-premier.jpg) — GSMArena
+- `camon-40-pro-5g.webp` — [Camon 40 Pro](https://fdn2.gsmarena.com/vv/bigpic/tecno-camon-40-pro-5g.jpg) — GSMArena
+- `camon-40.webp` — [Camon 40](https://fdn2.gsmarena.com/vv/bigpic/tecno-camon-40-4g.jpg) — GSMArena
+- `pova-8-pro-5g.webp` — [Pova 8 Pro](https://fdn2.gsmarena.com/vv/bigpic/tecno-pova8-pro.jpg) — GSMArena
+- `spark-50-pro.webp` — [Spark 50 Pro](https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-50-pro.jpg) — GSMArena
+- `megapad-2.webp` — [Megapad 2](https://fdn2.gsmarena.com/vv/bigpic/tecno-megapad2.jpg) — GSMArena
+- `a300+.webp` — [Itel A300+](https://fdn2.gsmarena.com/vv/bigpic/itel-a300.jpg) — GSMArena
+- `zeno-300.webp` — [Zeno 300](https://fdn2.gsmarena.com/vv/bigpic/itel-zeno-300.jpg) — GSMArena
+- `zeno-200.webp` — [Zeno 200](https://fdn2.gsmarena.com/vv/bigpic/itel-a200-plus.jpg) — GSMArena
+- `a100-pro.webp` — [Itel A100 Pro](https://fdn2.gsmarena.com/vv/bigpic/itel-a100-pro.jpg) — GSMArena
+- `power-80.webp` — [Power 80](https://fdn2.gsmarena.com/vv/bigpic/itel-power80.jpg) — GSMArena
+- `s25-ultra.webp` — [Itel S25 Ultra](https://fdn2.gsmarena.com/vv/bigpic/itel-s25-ultra.jpg) — GSMArena
+- `a80.webp` — [Itel A80](https://fdn2.gsmarena.com/vv/bigpic/itel-a80.jpg) — GSMArena
+- `vistatab-12.webp` — [VistaTab 12](https://fdn2.gsmarena.com/vv/bigpic/itel-vista-12.jpg) — GSMArena
+- `note-60-ultra-5g.webp` — [Note 60 Ultra](https://fdn2.gsmarena.com/vv/bigpic/infinix-note60-ultra.jpg) — GSMArena
+- `note-60-pro-5g.webp` — [Note 60 Pro](https://fdn2.gsmarena.com/vv/bigpic/infinix-note60-pro.jpg) — GSMArena
+- `note-60-5g.webp` — [Note 60](https://fdn2.gsmarena.com/vv/bigpic/infinix-note60.jpg) — GSMArena
+- `hot-70-pro-5g.webp` — [Hot 70 Pro](https://fdn2.gsmarena.com/vv/bigpic/infinix-hot-70-pro.jpg) — GSMArena
+- `hot-60-pro+.webp` — [Hot 60 Pro+](https://fdn2.gsmarena.com/vv/bigpic/infinix-hot-60-pro-plus.jpg) — GSMArena
+- `zero-40.webp` — [Zero 40](https://fdn2.gsmarena.com/vv/bigpic/infinix-zero40-5g-.jpg) — GSMArena
+- `gt-50-pro-5g.webp` — [GT 50 Pro](https://fdn2.gsmarena.com/vv/bigpic/infinix-gt50-pro.jpg) — GSMArena
+- `xpad-30-pro.webp` — [Xpad 30 Pro](https://fdn2.gsmarena.com/vv/bigpic/infinix-xpad-30-pro.jpg) — GSMArena
+- `find-x10-pro-max.webp` — [Find X10 Pro Max](https://fdn2.gsmarena.com/vv/bigpic/oppo-find-x10-pro-max.jpg) — GSMArena
+- `find-x10.webp` — [Find X10](https://fdn2.gsmarena.com/vv/bigpic/oppo-find-x10.jpg) — GSMArena
+- `reno16-pro-5g.webp` — [Reno16 Pro](https://fdn2.gsmarena.com/vv/bigpic/oppo-reno16-pro.jpg) — GSMArena
+- `reno16-5g.webp` — [Reno16](https://fdn2.gsmarena.com/vv/bigpic/oppo-reno16.jpg) — GSMArena
+- `a7-pro-5g.webp` — [A7 Pro](https://fdn2.gsmarena.com/vv/bigpic/oppo-a7-pro.jpg) — GSMArena
+- `pad-6.webp` — [Pad 6](https://fdn2.gsmarena.com/vv/bigpic/oppo-pad6.jpg) — GSMArena
+- `find-n6-5g.webp` — [Find N6](https://fdn2.gsmarena.com/vv/bigpic/oppo-find-n6.jpg) — GSMArena
+- `gt8-pro-5g-china.webp` — [GT 8 Pro](https://fdn2.gsmarena.com/vv/bigpic/realme-gt8-pro-cn.jpg) — GSMArena
+- `16-pro+-5g.webp` — [Realme 16 Pro+](https://fdn2.gsmarena.com/vv/bigpic/realme-16-pro-plus.jpg) — GSMArena
+- `16-pro-5g.webp` — [Realme 16 Pro](https://fdn2.gsmarena.com/vv/bigpic/realme-16-pro.jpg) — GSMArena
+- `16-5g.webp` — [Realme 16](https://fdn2.gsmarena.com/vv/bigpic/realme-16-.jpg) — GSMArena
+- `narzo-90-5g.webp` — [Realme Narzo 90](https://fdn2.gsmarena.com/vv/bigpic/realme-narzo-90.jpg) — GSMArena
+- `pad-3-5g.webp` — [Pad 3](https://fdn2.gsmarena.com/vv/bigpic/realme-pad3.jpg) — GSMArena
+- `16-5g.webp` — [OnePlus 16](https://fdn2.gsmarena.com/vv/bigpic/oneplus-16.jpg) — GSMArena
+- `15-5g.webp` — [OnePlus 15](https://fdn2.gsmarena.com/vv/bigpic/oneplus-15.jpg) — GSMArena
+- `15r-5g.webp` — [OnePlus 15R](https://fdn2.gsmarena.com/vv/bigpic/oneplus-15r.jpg) — GSMArena
+- `nord-6-5g.webp` — [Nord 6](https://fdn2.gsmarena.com/vv/bigpic/oneplus-turbo-6.jpg) — GSMArena
+- `pad-3-pro.webp` — [Pad 3 Pro](https://fdn2.gsmarena.com/vv/bigpic/oneplus-pad-4-new.jpg) — GSMArena
+- `magic9-pro-max-5g.webp` — [Magic9 Pro Max](https://fdn2.gsmarena.com/vv/bigpic/honor-magic9-pro-max.jpg) — GSMArena
+- `magic9-5g.webp` — [Magic9](https://fdn2.gsmarena.com/vv/bigpic/honor-magic9.jpg) — GSMArena
+- `600-pro-5g.webp` — [Honor 600 Pro](https://fdn2.gsmarena.com/vv/bigpic/honor-600-pro.jpg) — GSMArena
+- `x80-pro-max-5g.webp` — [Honor X80 Pro Max](https://fdn2.gsmarena.com/vv/bigpic/honor-x80-pro-max.jpg) — GSMArena
+- `pad-20-pro.webp` — [Pad 20 Pro](https://fdn2.gsmarena.com/vv/bigpic/honor-pad20-pro.jpg) — GSMArena
+
+- `16-5g.webp` — [OnePlus 16](https://fdn2.gsmarena.com/vv/bigpic/oneplus-16.jpg) — GSMArena
+- `realme-16.webp` — [Realme 16](https://fdn2.gsmarena.com/vv/bigpic/realme-16-.jpg) — GSMArena
+
+## Accessoires — Wikimedia Commons
+
+- `airpods-pro-2.webp` — Wikimedia Commons : 00_1_AirPods_Pro_2nd_generation.jpg.jpg
+- `airpods-pro-1.webp` — Wikimedia Commons : 00_2_AirPods_Pro_1.jpg.jpg
+- `airpods-max.webp` — Wikimedia Commons : 01_0_Apple_AirPods_Max_2.jpg.jpg
+- `galaxy-buds2-pro.webp` — Wikimedia Commons : 08_0_Pair_of_lavender_Samsung_Galaxy_Buds2_Pro.jpg.jpg
+- `galaxy-buds-plus.webp` — Wikimedia Commons : 02_0_SAMSUNG_Galaxy_Buds_2.jpg.jpg
+- `jbl-flip-4.webp` — Wikimedia Commons : 03_1_JBL_Flip_4.jpg.jpg
+- `jbl-charge-3.webp` — Wikimedia Commons : 03_0_JBL_CHARGE3_という_Portable_Bluetooth_Speaker_疲れない音で.jpg
+- `jbl-pulse-5.webp` — Wikimedia Commons : 03_2_JBL_Pulse_5_Portable_Bluetooth_Speaker.jpg.jpg
+- `apple-watch-series-7.webp` — Wikimedia Commons : 08_3_Apple_Watch_Series_7_January_2022_01.jpg.jpg
+- `apple-watch-ultra.webp` — Wikimedia Commons : 07_1_Apple_Watch_Ultra_-_2.jpg.jpg
+- `apple-watch-series-4.webp` — Wikimedia Commons : 08_0_AppleWatch_Series_4_Nike_40mm.jpg.jpg
+- `galaxy-watch.webp` — Wikimedia Commons : 06_2_SAMSUNG_Galaxy_Watch_2.jpg.jpg
+- `huawei-watch-fit-2.webp` — Wikimedia Commons : 09_2_Huawei_Smartwatch_Fit_2.jpg.jpg
+- `chargeur-anker-40w.webp` — Wikimedia Commons : 04_0_Anker-PowerPort-40W-5-Port-USB-Ladegeraet.2.jpg.jpg
+- `powerbank-anker-10000.webp` — Wikimedia Commons : 01_0_Anker_power_bank_and_cable.jpg.jpg
+- `powerbank-anker-5000.webp` — Wikimedia Commons : 00_2_2023_Powerbank_Anker_Powercore_5000mAh.jpg.jpg
+- `station-belkin-magsafe.webp` — Wikimedia Commons : 14_1_Belkin_2_in_1_MagSafe充電器.jpg.jpg
+- `cable-usbc-100w.webp` — Wikimedia Commons : 06_1_IKEA_SITTBRUNN_USB_C_TO_C_CABLE.jpg.jpg
+- `coque-magsafe-iphone.webp` — Wikimedia Commons : 07_3_IPhone_XR_MagSafe_case.jpg.jpg
+- `protection-ecran.webp` — Wikimedia Commons : 03_2_Samsung_Galaxy_A04e_front_with_screen_protector.jpg.jpg
+- `tripode-telephone.webp` — Wikimedia Commons : 05_2_Mini_tripod_and_phone_holder.jpg.jpg
